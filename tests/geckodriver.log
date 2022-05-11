@@ -1,0 +1,66 @@
+1652267626550	geckodriver	INFO	Listening on 127.0.0.1:53385
+1652267728825	geckodriver	INFO	Listening on 127.0.0.1:53434
+1652267745321	geckodriver	INFO	Listening on 127.0.0.1:53442
+1652267764291	geckodriver	INFO	Listening on 127.0.0.1:53455
+1652267846009	geckodriver	INFO	Listening on 127.0.0.1:53490
+1652267856029	geckodriver	INFO	Listening on 127.0.0.1:53500
+1652267951485	geckodriver	INFO	Listening on 127.0.0.1:53516
+1652268032411	geckodriver	INFO	Listening on 127.0.0.1:53546
+1652268185572	geckodriver	INFO	Listening on 127.0.0.1:53623
+1652268185579	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53624" "-foreground" "-no-remote" "-profile" "/var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofilefAmtb7"
+1652268188622	Marionette	INFO	Marionette enabled
+2022-05-11 14:23:08.688 plugin-container[37822:1397304] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:08.689 plugin-container[37822:1397304] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:23:08.744 plugin-container[37822:1397304] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:08.744 plugin-container[37822:1397304] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:23:08.744 plugin-container[37822:1397344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:23:08.744 plugin-container[37822:1397344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofilefAmtb7/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53624/devtools/browser/dc2d0df8-e318-47f0-adee-4d8c23f8f0d3
+1652268190537	Marionette	INFO	Listening on port 53627
+1652268190622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652268206766	Marionette	INFO	Stopped listening on port 53627
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652268405348	geckodriver	INFO	Listening on 127.0.0.1:53740
+1652268405871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53741" "-foreground" "-no-remote" "-profile" "/var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofileK0QZUm"
+1652268406735	Marionette	INFO	Marionette enabled
+2022-05-11 14:26:46.785 plugin-container[37940:1400839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:26:46.785 plugin-container[37940:1400839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:26:46.796 plugin-container[37940:1400839] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:26:46.796 plugin-container[37940:1400839] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:26:46.796 plugin-container[37940:1400842] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:26:46.796 plugin-container[37940:1400842] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofileK0QZUm/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53741/devtools/browser/085be126-07f0-4d23-9c14-b74081be2d31
+1652268407845	Marionette	INFO	Listening on port 53747
+1652268407956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652268518074	geckodriver	INFO	Listening on 127.0.0.1:53855
+1652268518592	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53856" "-foreground" "-no-remote" "-profile" "/var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofiler24NKo"
+1652268519534	Marionette	INFO	Marionette enabled
+2022-05-11 14:28:39.651 plugin-container[38048:1403311] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:28:39.651 plugin-container[38048:1403311] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:28:39.710 plugin-container[38048:1403311] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:28:39.710 plugin-container[38048:1403311] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 14:28:39.710 plugin-container[38048:1403309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 14:28:39.710 plugin-container[38048:1403309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/db/1q5xltwd16jgkbx8dk34bv9c0000gn/T/rust_mozprofiler24NKo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53856/devtools/browser/4bdc33e3-ab8f-42a0-9d5c-f82de5a0826b
+1652268521055	Marionette	INFO	Listening on port 53861
+1652268521083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652268527308	Marionette	INFO	Stopped listening on port 53747
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652268529011	Marionette	INFO	Stopped listening on port 53861
